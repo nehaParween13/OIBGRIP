@@ -1,2 +1,2 @@
 # OIBGRIP
-I created the todo list webapp using html, css and js.
+I created the todo list webapp to deal with daily task according to priority using html, css and js.
